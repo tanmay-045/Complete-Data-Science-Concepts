@@ -4,6 +4,8 @@
 
 The dataset used in this analysis is the **Google Playstore dataset**. It contains various features of apps available on Google Play, such as `App Name`, `Category`, `Rating`, `Reviews`, `Size`, `Installs`, and more. The dataset provides an opportunity to explore and analyze app characteristics, popularity, and user engagement.
 
+Dataset- https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv
+
 ### Steps Followed for EDA and Data Cleaning
 
 1. **Data Loading and Initial Inspection:**
