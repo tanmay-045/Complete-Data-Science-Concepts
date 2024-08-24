@@ -8,7 +8,7 @@ This repository contains the Exploratory Data Analysis (EDA) and Data Cleaning w
 
 The dataset includes information on flight prices, features related to flights, and other relevant attributes. It is intended to help understand factors influencing flight prices and identify patterns that can guide further analysis.
 
-## Steps Followed for EDA
+### Steps Followed for EDA
 
 1. **Data Loading:** Imported the dataset using `pandas` and performed initial inspection.
 2. **Data Cleaning:** Addressed missing values and inconsistencies where necessary. 
@@ -17,7 +17,7 @@ The dataset includes information on flight prices, features related to flights, 
 5. **Outlier Detection:** Identified and handled any outliers or anomalies in the data.
 6. **Trend Analysis:** Analyzed trends to understand patterns in flight prices over time or other dimensions.
 
-## Key Findings
+### Key Findings
 
 - **Observation 1:** The 3rd month, **March**, has the highest average, meaning more people travel during March, followed by the 5th month, **May**.
 - **Observation 2:** **Jet Airways** shows the highest average flight prices, closely followed by **Multiple Carriers Premium Economy**, indicating a premium pricing strategy.
